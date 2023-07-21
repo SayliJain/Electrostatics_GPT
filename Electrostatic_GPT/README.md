@@ -1,5 +1,5 @@
 
-# nanoGPT
+# Reference for the original nanoGPT by Andrej karpathy
 
 ![nanoGPT](assets/nanogpt.jpg)
 
