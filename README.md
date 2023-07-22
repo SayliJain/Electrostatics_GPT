@@ -96,6 +96,8 @@ python train.py config/train_electrostatics_char.py --device=cpu --compile=False
 python train.py config/train_electrostatics_char.py 
 ```
 
+- After running this command, If you get an error stating **"Microsoft Visual C++ Redistributable is not installed, this may lead to the DLL load failure."** Please install [Microsoft Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x64.exe). Run the file, then the error will be resolved. 
+
 4. **Then, sample the data and print it**.
 
 - The command for CPU:
