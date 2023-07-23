@@ -19,7 +19,7 @@ In case an older version of Python is installed on your system (<3.11), upgrade 
 
 a. Download the Python installer from this [website](https://www.python.org/downloads/release/python-3114/).
 
-b. Run the installer for Python 3.11 version for 64-bit Windows machine.
+b. Run the installer for Python 3.11 version for a 64-bit Windows machine.
 
 c. Click and check the checkboxes for:
    - Use admin privileges when installing py.exe
