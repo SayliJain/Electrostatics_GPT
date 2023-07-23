@@ -11,9 +11,9 @@ A simple Topic GPT model for Electrostatics
 python --version
 ```
 
-If Python is available, it will return the version of Python installed. If Python is not available, it will return "Python was not found."
+If Python is available, it will return the version of Python installed. If not, it will return "Python was not found."
 
-If there is an older version installed (<3.11), upgrade it by installing the latest version from the Python website (version 3.11).
+In case an older version of Python is installed on your system (<3.11), upgrade it by installing the latest version from the Python website (version 3.11).
 
 ### 3. **Installing Python**
 
@@ -27,7 +27,7 @@ c. Click and check the checkboxes for:
 
 d. Click on "Install Now"
 
-e. If you encounter any trouble during installation, run the installer again with the same options but do a customized installation with the "Precompile standard library" option checked, or contact tech support if unable to install Python.
+e. If you encounter any trouble during installation, run the installer again with the same options but do a customized installation with the "Precompile standard library" option checked, or contact tech support if you are unable to install Python.
 
 f. Restart the Command Prompt and check the Python version again by running:
    ```
